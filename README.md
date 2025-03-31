@@ -6,7 +6,7 @@
 
 ## 成果
 
-- [ppt](./realdex.pptx)
+- [ppt](./realdex.key)
 - [pdf](./realdex.pdf)
 - [演示视频](./realdex.MP4)
 - [后端仓库](https://github.com/AdamLeeeee/Fetch-Data-From-Public-Node)
