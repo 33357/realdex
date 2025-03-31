@@ -7,6 +7,7 @@
 ## 成果
 
 - [ppt](./realdex.pptx)
+- [pdf](./realdex.pdf)
 - [演示视频](./realdex.MP4)
 - [后端仓库](https://github.com/AdamLeeeee/Fetch-Data-From-Public-Node)
 - [前端仓库](https://github.com/FullmetalCoder-Neal/uni-swap.git)
